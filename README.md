@@ -1,2 +1,2 @@
 # GranTurismo
-Run the file index.html
+Run the file <strong> index.html </strong>
